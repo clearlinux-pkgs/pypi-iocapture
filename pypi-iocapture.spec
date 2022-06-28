@@ -4,7 +4,7 @@
 #
 Name     : pypi-iocapture
 Version  : 0.1.2
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/7a/9e/be3e278cec4f82b771b17a6c539a44d67081adb8042bc765776d77f3ea4a/iocapture-0.1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7a/9e/be3e278cec4f82b771b17a6c539a44d67081adb8042bc765776d77f3ea4a/iocapture-0.1.2.tar.gz
 Summary  : Capture stdout, stderr easily.
@@ -58,7 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656382627
+export SOURCE_DATE_EPOCH=1656399593
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
